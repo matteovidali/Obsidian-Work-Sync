@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "832cac8df2e1affb",
+        "id": "ea62842966b2d4a8",
         "type": "tabs",
         "children": [
           {
-            "id": "50b99acc25169833",
+            "id": "c3c74d2170b185a0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "axidma_init function.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "axidma_init function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "axidma_init function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "axidma_init function.md"
+              }
             }
           },
           {
@@ -146,10 +154,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50b99acc25169833",
+  "active": "c3c74d2170b185a0",
   "lastOpenFiles": [
-    "DMA.md",
+    "Work/DMA.md",
     "axidma_init function.md",
+    "Work",
+    "DMA.md",
     "Workout/Push 1.md",
     "Template/daily.template.md",
     "Goals&Principles/workout-schedule.md",
@@ -170,7 +180,6 @@
     "Work/qemu-docs/xilinx_axidma.md",
     "Work/qemu-docs/object.c.md",
     "Work/qemu-docs/object.h.md",
-    "Work/DMA.md",
     "qemu/include/qom",
     "qemu/include",
     "qemu",
@@ -178,7 +187,6 @@
     "**main** init.md",
     "Work/**main** init.md",
     "Untitled.canvas",
-    "Work",
     "2023-07-03.md"
   ]
 }

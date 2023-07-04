@@ -1,4 +1,4 @@
-# xilinx [dma](Work/DMA)
+# xilinx [dma](DMA)
 
 The file `xilinx_axidma.c` should implement the xilinx DMA object, and allow me to just insert it into my code and run the QEMU machine with the hardware for DMA.  
 
