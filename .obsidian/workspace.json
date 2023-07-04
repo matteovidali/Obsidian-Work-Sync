@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ea62842966b2d4a8",
+        "id": "207c2fe0d264026f",
         "type": "tabs",
         "children": [
           {
-            "id": "c3c74d2170b185a0",
+            "id": "3b53b4f56d8907bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,12 +154,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c3c74d2170b185a0",
+  "active": "3b53b4f56d8907bb",
   "lastOpenFiles": [
-    "Work/DMA.md",
-    "axidma_init function.md",
-    "Work",
     "DMA.md",
+    "qemu-docs/TypeInfo.md",
+    "qemu-docs/QOM.md",
+    "qemu-docs/xilinx_axidma.md",
+    "qemu-docs/axidma_info.md",
+    "axidma_init function.md",
+    "qemu-docs/object.h.md",
+    "qemu-docs/object.c.md",
+    "qemu-docs/object_initialize_child().md",
+    "Work/qemu-docs/object.c.md",
+    "Work/qemu-docs",
+    "Work",
+    "Work/DMA.md",
     "Workout/Push 1.md",
     "Template/daily.template.md",
     "Goals&Principles/workout-schedule.md",
@@ -178,15 +187,9 @@
     "Work/qemu-docs/object_initialize_child().md",
     "Work/qemu-docs/axidma_info.md",
     "Work/qemu-docs/xilinx_axidma.md",
-    "Work/qemu-docs/object.c.md",
-    "Work/qemu-docs/object.h.md",
     "qemu/include/qom",
     "qemu/include",
     "qemu",
-    "Work/qemu-docs",
-    "**main** init.md",
-    "Work/**main** init.md",
-    "Untitled.canvas",
-    "2023-07-03.md"
+    "Untitled.canvas"
   ]
 }

@@ -16,10 +16,10 @@ object_initialize_child_internal((parent), (propname), \
 
 ## Definition
 
-The function **`object_initialize_child`** is actually defined in the [header](Work/qemu-docs/object.h), and exists to call the function **`object_initialize_child_internal`**. 
+The function **`object_initialize_child`** is actually defined in the [header](qemu-docs/object.h), and exists to call the function **`object_initialize_child_internal`**. 
 Why this is done is currently a mystery to me.
 
-The function that is actually called **`object_initialize_child_internal`** is defined in the [main file](Work/qemu-docs/object.c)
+The function that is actually called **`object_initialize_child_internal`** is defined in the [main file](qemu-docs/object.c)
 
 
 

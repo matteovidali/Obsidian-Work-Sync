@@ -1,4 +1,4 @@
-# TypeInfo axidma_info
+# [[TypeInfo]] axidma_info
 
 axidma_info is the [[TypeInfo]] structure of the [[xilinx_axidma]] module
 
