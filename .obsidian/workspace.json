@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "cb5f4d52328e7d1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "832cac8df2e1affb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50b99acc25169833",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edf18a5cb0081c13",
+    "type": "split",
+    "children": [
+      {
+        "id": "f93b8dc53b1b68f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5ddfbca4bb6fb89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e4ab956cc645748",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "xilinx_axidma.c",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0ca3c739f063c02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a82764761815e3a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8894e92e362f9f78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "141677c06aac7ea1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e8a92869bc1ca37d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef3a3d2966d760b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c23bf82cfe9050f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "c08bf3e74647d756",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "50b99acc25169833",
+  "lastOpenFiles": [
+    "DMA.md",
+    "axidma_init function.md",
+    "Workout/Push 1.md",
+    "Template/daily.template.md",
+    "Goals&Principles/workout-schedule.md",
+    "Goals&Principles/point1-percent-theory.md",
+    "Goals&Principles/diet.md",
+    "daily/2023-07-04.md",
+    "daily/2023-07-03.md",
+    "daily/2023-07-02.md",
+    "Goals&Principles",
+    "sync-folder/Personal/point1-percent-theory.md",
+    "sync-folder/Personal",
+    "sync-folder",
+    "Work/axidma_init function.md",
+    "Work/qemu-docs/TypeInfo.md",
+    "Work/qemu-docs/QOM.md",
+    "Work/qemu-docs/object_initialize_child().md",
+    "Work/qemu-docs/axidma_info.md",
+    "Work/qemu-docs/xilinx_axidma.md",
+    "Work/qemu-docs/object.c.md",
+    "Work/qemu-docs/object.h.md",
+    "Work/DMA.md",
+    "qemu/include/qom",
+    "qemu/include",
+    "qemu",
+    "Work/qemu-docs",
+    "**main** init.md",
+    "Work/**main** init.md",
+    "Untitled.canvas",
+    "Work",
+    "2023-07-03.md"
+  ]
+}
