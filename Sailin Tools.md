@@ -24,7 +24,8 @@ UART\_USB
 ## machine learning front ends
 # Tools
 <a id="org3fa2a34"></a>
-## sailinsc-viewer {plotX|scatter|info target output}
+## sailinsc-viewer {plot ☑|scatter |info target output}
+
 matplotlib.pyplot things from terminal
 get basic data summaries
 CSV, ETS, Python object storage
