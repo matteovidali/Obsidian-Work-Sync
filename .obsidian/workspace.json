@@ -4,28 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "207c2fe0d264026f",
+        "id": "79fd01bb5a39f5da",
         "type": "tabs",
         "children": [
           {
-            "id": "3b53b4f56d8907bb",
+            "id": "2a29069822df6f17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "DMA.md",
-                "mode": "source",
-                "source": false
+                "file": "Elevate/Block Diagram.canvas",
+                "viewState": {
+                  "x": 121.51428571428579,
+                  "y": -375.0785333982078,
+                  "zoom": -0.5711567011961258
+                }
               }
             }
           },
           {
-            "id": "8d55da7b046ce7f7",
+            "id": "642bdaf89d1ce992",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sailin Tools.md",
+                "file": "qemu-docs/xilinx_axidma.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,8 +101,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sailin Tools.md",
-                "collapseAll": false,
+                "file": "qemu-docs/xilinx_axidma.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -115,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sailin Tools.md",
+                "file": "qemu-docs/xilinx_axidma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sailin Tools.md"
+                "file": "qemu-docs/xilinx_axidma.md"
               }
             }
           },
@@ -154,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,23 +170,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8d55da7b046ce7f7",
+  "active": "642bdaf89d1ce992",
   "lastOpenFiles": [
+    "qemu-docs/xilinx_axidma.md~",
     "Sailin Tools.md",
-    "DMA.md",
-    "sca",
+    "conflict-files-obsidian-git.md",
+    "Elevate/Block Diagram.canvas",
+    "Elevate/Micro Controller.md",
+    "Elevate/Wireless Controller.md",
+    "qemu-docs/xilinx_axidma.md",
     "axidma_init function.md",
     "qemu-docs/TypeInfo.md",
-    "qemu-docs/QOM.md",
-    "qemu-docs/xilinx_axidma.md",
-    "qemu-docs/axidma_info.md",
-    "qemu-docs/object.h.md",
-    "qemu-docs/object.c.md",
     "qemu-docs/object_initialize_child().md",
-    "Work/qemu-docs/object.c.md",
+    "Work/qemu-docs/object.h.md",
     "Work/qemu-docs",
+    "Work/qemu-docs/QOM.md",
     "Work",
-    "Work/DMA.md",
+    "Wireless Control.md",
+    "Elevate",
+    "DMA.md",
     "Workout/Push 1.md",
     "Template/daily.template.md",
     "Goals&Principles/workout-schedule.md",
@@ -198,12 +203,10 @@
     "sync-folder",
     "Work/axidma_init function.md",
     "Work/qemu-docs/TypeInfo.md",
-    "Work/qemu-docs/QOM.md",
     "Work/qemu-docs/object_initialize_child().md",
     "Work/qemu-docs/axidma_info.md",
     "qemu/include/qom",
     "qemu/include",
-    "qemu",
-    "Untitled.canvas"
+    "qemu"
   ]
 }
