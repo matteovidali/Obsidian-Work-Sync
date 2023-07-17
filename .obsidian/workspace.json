@@ -15,30 +15,14 @@
               "state": {
                 "file": "Elevate/Block Diagram.canvas",
                 "viewState": {
-                  "x": -290.8819083683181,
-                  "y": -209.944388697097,
-                  "zoom": 1
-                }
-              }
-            }
-          },
-          {
-            "id": "a3b89d7007a1c972",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Elevate/Block Diagram.canvas",
-                "viewState": {
                   "x": -198.5,
-                  "y": 18.805714285714316,
+                  "y": -147,
                   "zoom": -0.5711567011961258
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,13 +157,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a3b89d7007a1c972",
+  "active": "a5ddfbca4bb6fb89",
   "lastOpenFiles": [
-    "Elevate/USB C Connector.md",
-    "Elevate/Block Diagram.canvas",
-    "Elevate/3.3V_Regulator.md",
     "Elevate/Wireless Controller.md",
+    "Elevate/USB C Connector.md",
     "Elevate/Micro Controller.md",
+    "Elevate/3.3V_Regulator.md",
+    "Elevate/Block Diagram.canvas",
+    "().md",
     "qemu-docs/xilinx_axidma.md",
     "qemu-docs/object.c.md",
     "Sailin Tools.md",
@@ -208,7 +193,6 @@
     "sync-folder/Personal/point1-percent-theory.md",
     "sync-folder/Personal",
     "sync-folder",
-    "Work/axidma_init function.md",
     "qemu/include/qom",
     "qemu/include"
   ]
