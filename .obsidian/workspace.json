@@ -4,25 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "b0ae10082a6c49ab",
+        "id": "207c2fe0d264026f",
         "type": "tabs",
         "children": [
           {
-            "id": "905dfff2532f2e1e",
+            "id": "3b53b4f56d8907bb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Elevate/Block Diagram.canvas",
-                "viewState": {
-                  "x": -198.5,
-                  "y": -147,
-                  "zoom": -0.5711567011961258
-                }
+                "file": "DMA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d55da7b046ce7f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DMA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2553cbb3dc04834",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5bd05e31b840cc40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DPA/Kocher-1998.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,8 +118,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elevate/Block Diagram.canvas",
-                "collapseAll": true,
+                "file": "DPA/Kocher-1998.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -105,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elevate/Block Diagram.canvas",
+                "file": "DPA/Kocher-1998.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elevate/Block Diagram.canvas"
+                "file": "DPA/Kocher-1998.md"
               }
             }
           },
@@ -144,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,43 +187,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a5ddfbca4bb6fb89",
+  "active": "5bd05e31b840cc40",
   "lastOpenFiles": [
+    "DPA/DPA.md",
+    "DPA/Kocher-1998.md",
+    "Elevate/Block Diagram.canvas",
+    "Kocher-1998.md",
+    "DPA/Data Encryption Standard - Wikipedia.md",
+    "DPA",
+    "AXI DMA in virt.c.md",
+    "conflict-files-obsidian-git.md",
     "Elevate/Wireless Controller.md",
     "Elevate/USB C Connector.md",
     "Elevate/Micro Controller.md",
     "Elevate/3.3V_Regulator.md",
-    "Elevate/Block Diagram.canvas",
-    "().md",
+    "Elevate",
     "qemu-docs/xilinx_axidma.md",
-    "qemu-docs/object.c.md",
+    "DMA.md",
     "Sailin Tools.md",
-    "Untitled",
-    "qemu-docs/object_initialize_child().md",
-    "qemu-docs/xilinx_axidma.md~",
-    "conflict-files-obsidian-git.md",
+    "sca",
     "axidma_init function.md",
     "qemu-docs/TypeInfo.md",
-    "Work/qemu-docs/object.h.md",
+    "qemu-docs/QOM.md",
+    "qemu-docs/axidma_info.md",
+    "qemu-docs/object.h.md",
+    "qemu-docs/object.c.md",
+    "qemu-docs/object_initialize_child().md",
+    "Work/qemu-docs/object.c.md",
     "Work/qemu-docs",
-    "Work/qemu-docs/QOM.md",
     "Work",
-    "Wireless Control.md",
-    "Elevate",
-    "DMA.md",
+    "Work/DMA.md",
     "Workout/Push 1.md",
     "Template/daily.template.md",
     "Goals&Principles/workout-schedule.md",
     "Goals&Principles/point1-percent-theory.md",
-    "Goals&Principles/diet.md",
-    "daily/2023-07-04.md",
-    "daily/2023-07-03.md",
-    "daily/2023-07-02.md",
     "Goals&Principles",
-    "sync-folder/Personal/point1-percent-theory.md",
     "sync-folder/Personal",
     "sync-folder",
     "qemu/include/qom",
-    "qemu/include"
+    "qemu/include",
+    "Untitled.canvas"
   ]
 }
