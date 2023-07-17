@@ -1,4 +1,5 @@
 Selected Micro Controller is: [**STM32F401RET6**](https://www.st.com/en/microcontrollers-microprocessors/stm32f401re.html?rt=db&id=DB2196) 
+Purchase: [Digikey](https://www.digikey.com/en/products/detail/stmicroelectronics/STM32F401RET6/5051337) [Mouser](https://www.mouser.com/ProductDetail/STMicroelectronics/STM32F401RET6?qs=s5SkPsIz108eLldhTu8INg%3D%3D)
 
 ## Power System
 ### Decoupling Capacitors

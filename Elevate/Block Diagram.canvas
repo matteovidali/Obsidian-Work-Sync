@@ -7,20 +7,22 @@
 		{"type":"group","id":"f89bac451ff9dde4","x":-520,"y":-300,"width":286,"height":220,"label":"Power System"},
 		{"type":"group","id":"c2448ebe88453986","x":-520,"y":-823,"width":272,"height":226,"label":"Legend"},
 		{"type":"group","id":"2105a9338b2298bd","x":-30,"y":84,"width":394,"height":129,"label":"Button Detection System"},
-		{"type":"text","text":"[[Wireless Controller]]","id":"f1179073506a0eb9","x":-160,"y":-280,"width":250,"height":60},
 		{"type":"text","text":"Power Input","id":"7aed15a69301b705","x":-540,"y":-520,"width":250,"height":60,"color":"1"},
-		{"type":"text","text":"5V Regulator","id":"e5cd89561125d76a","x":-502,"y":-280,"width":250,"height":50},
-		{"type":"text","text":"3.3V Regulator","id":"183d130e7aa465c3","x":-502,"y":-210,"width":250,"height":50},
-		{"type":"text","text":"[[Micro Controller]]","id":"f750146ee4c18bc3","x":-155,"y":-160,"width":240,"height":60},
 		{"type":"text","text":"External Inputs","id":"c5aeaef7a49fdc0d","x":-509,"y":-807,"width":250,"height":60,"color":"1"},
 		{"type":"text","text":"External Control","id":"360ccc2c96c283ce","x":-509,"y":-737,"width":250,"height":60,"color":"4"},
 		{"type":"text","text":"Internal Component","id":"878019df5e59cfcf","x":-509,"y":-666,"width":250,"height":60},
-		{"type":"text","text":"Shift Register","id":"74c8f4a0db2ebf41","x":-456,"y":78,"width":250,"height":60},
 		{"type":"text","text":"Relay\n","id":"f77bd4072f7e7900","x":-518,"y":188,"width":113,"height":50},
+		{"type":"text","text":"3.3V Regulator","id":"183d130e7aa465c3","x":-503,"y":-145,"width":250,"height":50},
+		{"type":"text","text":"[[Wireless Controller]]","id":"f1179073506a0eb9","x":-160,"y":-280,"width":250,"height":60},
+		{"type":"text","text":"Shift Register","id":"74c8f4a0db2ebf41","x":-456,"y":78,"width":250,"height":60},
 		{"type":"text","text":"Relay\n","id":"f8bdc3a44d46971b","x":-262,"y":188,"width":113,"height":50},
-		{"type":"text","text":"Parallel To Serial Converter","id":"40d03dfed0743265","x":91,"y":111,"width":250,"height":60},
 		{"type":"text","text":"Car Call Buttons","id":"e750672382c68fde","x":-456,"y":409,"width":250,"height":50,"color":"4"},
-		{"type":"text","text":"Hall Call Buttons","id":"bb83a9c699feec7c","x":-456,"y":479,"width":250,"height":50,"color":"1"}
+		{"type":"text","text":"Hall Call Buttons","id":"bb83a9c699feec7c","x":-456,"y":479,"width":250,"height":50,"color":"1"},
+		{"type":"text","text":"5V Regulator","id":"e5cd89561125d76a","x":-503,"y":-210,"width":250,"height":50},
+		{"type":"text","text":"USB C Connector","id":"45812083d6e130b6","x":-503,"y":-280,"width":250,"height":50},
+		{"type":"text","text":"[[Micro Controller]]","id":"f750146ee4c18bc3","x":-155,"y":-160,"width":240,"height":60},
+		{"type":"text","text":"Parallel To Serial Converter","id":"40d03dfed0743265","x":91,"y":111,"width":250,"height":60},
+		{"type":"text","text":"USB C Connection","id":"91ec5d7fccd31199","x":-877,"y":-220,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"2200cb5dd80fc60e","fromNode":"f89bac451ff9dde4","fromSide":"right","toNode":"de170e490c4986a6","toSide":"left","color":"1"},
@@ -40,6 +42,10 @@
 		{"id":"e26819d09bd5570f","fromNode":"360ccc2c96c283ce","fromSide":"right","toNode":"878019df5e59cfcf","toSide":"right","color":"1","label":"POWER"},
 		{"id":"c441671a7ea2ee01","fromNode":"f750146ee4c18bc3","fromSide":"top","toNode":"f1179073506a0eb9","toSide":"bottom","fromEnd":"arrow","label":"Wireless Data"},
 		{"id":"2f6e084cda95fd91","fromNode":"f1179073506a0eb9","fromSide":"right","toNode":"aad7f9d88358dc97","toSide":"bottom","color":"5","label":"Call Data"},
-		{"id":"e39919ccdd58a6bd","fromNode":"aad7f9d88358dc97","fromSide":"left","toNode":"f1179073506a0eb9","toSide":"top","color":"5","label":"Call Requests"}
+		{"id":"e39919ccdd58a6bd","fromNode":"aad7f9d88358dc97","fromSide":"left","toNode":"f1179073506a0eb9","toSide":"top","color":"5","label":"Call Requests"},
+		{"id":"445caa521ff002ca","fromNode":"91ec5d7fccd31199","fromSide":"right","toNode":"f89bac451ff9dde4","toSide":"left","color":"1"},
+		{"id":"9845a1247a7714b8","fromNode":"45812083d6e130b6","fromSide":"right","toNode":"f750146ee4c18bc3","toSide":"left","color":"5"},
+		{"id":"dfbce8fcf196329d","fromNode":"45812083d6e130b6","fromSide":"bottom","toNode":"e5cd89561125d76a","toSide":"top"},
+		{"id":"b6df7a3e2a8531c7","fromNode":"45812083d6e130b6","fromSide":"bottom","toNode":"183d130e7aa465c3","toSide":"top"}
 	]
 }
