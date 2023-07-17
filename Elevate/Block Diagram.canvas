@@ -11,18 +11,18 @@
 		{"type":"text","text":"External Inputs","id":"c5aeaef7a49fdc0d","x":-509,"y":-807,"width":250,"height":60,"color":"1"},
 		{"type":"text","text":"External Control","id":"360ccc2c96c283ce","x":-509,"y":-737,"width":250,"height":60,"color":"4"},
 		{"type":"text","text":"Internal Component","id":"878019df5e59cfcf","x":-509,"y":-666,"width":250,"height":60},
+		{"type":"text","text":"[[USB C Connector]]","id":"45812083d6e130b6","x":-503,"y":-280,"width":250,"height":50},
 		{"type":"text","text":"Relay\n","id":"f77bd4072f7e7900","x":-518,"y":188,"width":113,"height":50},
-		{"type":"text","text":"3.3V Regulator","id":"183d130e7aa465c3","x":-503,"y":-145,"width":250,"height":50},
+		{"type":"text","text":"[[3.3V_Regulator]]","id":"183d130e7aa465c3","x":-503,"y":-145,"width":250,"height":50},
 		{"type":"text","text":"[[Wireless Controller]]","id":"f1179073506a0eb9","x":-160,"y":-280,"width":250,"height":60},
 		{"type":"text","text":"Shift Register","id":"74c8f4a0db2ebf41","x":-456,"y":78,"width":250,"height":60},
 		{"type":"text","text":"Relay\n","id":"f8bdc3a44d46971b","x":-262,"y":188,"width":113,"height":50},
-		{"type":"text","text":"Car Call Buttons","id":"e750672382c68fde","x":-456,"y":409,"width":250,"height":50,"color":"4"},
-		{"type":"text","text":"Hall Call Buttons","id":"bb83a9c699feec7c","x":-456,"y":479,"width":250,"height":50,"color":"1"},
 		{"type":"text","text":"5V Regulator","id":"e5cd89561125d76a","x":-503,"y":-210,"width":250,"height":50},
-		{"type":"text","text":"USB C Connector","id":"45812083d6e130b6","x":-503,"y":-280,"width":250,"height":50},
 		{"type":"text","text":"[[Micro Controller]]","id":"f750146ee4c18bc3","x":-155,"y":-160,"width":240,"height":60},
+		{"type":"text","text":"USB C Connection","id":"91ec5d7fccd31199","x":-877,"y":-220,"width":250,"height":60,"color":"1"},
 		{"type":"text","text":"Parallel To Serial Converter","id":"40d03dfed0743265","x":91,"y":111,"width":250,"height":60},
-		{"type":"text","text":"USB C Connection","id":"91ec5d7fccd31199","x":-877,"y":-220,"width":250,"height":60,"color":"1"}
+		{"type":"text","text":"Car Call Buttons","id":"e750672382c68fde","x":-456,"y":409,"width":250,"height":50,"color":"4"},
+		{"type":"text","text":"Hall Call Buttons","id":"bb83a9c699feec7c","x":-456,"y":479,"width":250,"height":50,"color":"1"}
 	],
 	"edges":[
 		{"id":"2200cb5dd80fc60e","fromNode":"f89bac451ff9dde4","fromSide":"right","toNode":"de170e490c4986a6","toSide":"left","color":"1"},

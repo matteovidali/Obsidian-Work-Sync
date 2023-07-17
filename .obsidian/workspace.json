@@ -4,33 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "79fd01bb5a39f5da",
+        "id": "b0ae10082a6c49ab",
         "type": "tabs",
         "children": [
           {
-            "id": "2a29069822df6f17",
+            "id": "905dfff2532f2e1e",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Elevate/Block Diagram.canvas",
                 "viewState": {
-                  "x": 121.51428571428579,
-                  "y": -375.0785333982078,
-                  "zoom": -0.5711567011961258
+                  "x": -290.8819083683181,
+                  "y": -209.944388697097,
+                  "zoom": 1
                 }
               }
             }
           },
           {
-            "id": "642bdaf89d1ce992",
+            "id": "a3b89d7007a1c972",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "qemu-docs/xilinx_axidma.md",
-                "mode": "source",
-                "source": false
+                "file": "Elevate/Block Diagram.canvas",
+                "viewState": {
+                  "x": -198.5,
+                  "y": 18.805714285714316,
+                  "zoom": -0.5711567011961258
+                }
               }
             }
           }
@@ -101,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "qemu-docs/xilinx_axidma.md",
+                "file": "Elevate/Block Diagram.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "qemu-docs/xilinx_axidma.md",
+                "file": "Elevate/Block Diagram.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "qemu-docs/xilinx_axidma.md"
+                "file": "Elevate/Block Diagram.canvas"
               }
             }
           },
@@ -170,18 +173,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "642bdaf89d1ce992",
+  "active": "a3b89d7007a1c972",
   "lastOpenFiles": [
-    "qemu-docs/xilinx_axidma.md~",
-    "Sailin Tools.md",
-    "conflict-files-obsidian-git.md",
+    "Elevate/USB C Connector.md",
     "Elevate/Block Diagram.canvas",
-    "Elevate/Micro Controller.md",
+    "Elevate/3.3V_Regulator.md",
     "Elevate/Wireless Controller.md",
+    "Elevate/Micro Controller.md",
     "qemu-docs/xilinx_axidma.md",
+    "qemu-docs/object.c.md",
+    "Sailin Tools.md",
+    "Untitled",
+    "qemu-docs/object_initialize_child().md",
+    "qemu-docs/xilinx_axidma.md~",
+    "conflict-files-obsidian-git.md",
     "axidma_init function.md",
     "qemu-docs/TypeInfo.md",
-    "qemu-docs/object_initialize_child().md",
     "Work/qemu-docs/object.h.md",
     "Work/qemu-docs",
     "Work/qemu-docs/QOM.md",
@@ -202,11 +209,7 @@
     "sync-folder/Personal",
     "sync-folder",
     "Work/axidma_init function.md",
-    "Work/qemu-docs/TypeInfo.md",
-    "Work/qemu-docs/object_initialize_child().md",
-    "Work/qemu-docs/axidma_info.md",
     "qemu/include/qom",
-    "qemu/include",
-    "qemu"
+    "qemu/include"
   ]
 }
