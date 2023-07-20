@@ -15,9 +15,9 @@
               "state": {
                 "file": "Elevate/Block Diagram.canvas",
                 "viewState": {
-                  "x": -198.5,
-                  "y": -147,
-                  "zoom": -0.5711567011961258
+                  "x": -57.849209725362414,
+                  "y": 152.80801996233794,
+                  "zoom": -0.9711567011961258
                 }
               }
             }
@@ -157,7 +157,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a5ddfbca4bb6fb89",
+  "active": "905dfff2532f2e1e",
   "lastOpenFiles": [
     "Elevate/Wireless Controller.md",
     "Elevate/USB C Connector.md",
