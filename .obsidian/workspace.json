@@ -15,9 +15,9 @@
               "state": {
                 "file": "Elevate/Block Diagram.canvas",
                 "viewState": {
-                  "x": -57.849209725362414,
-                  "y": 152.80801996233794,
-                  "zoom": -0.9711567011961258
+                  "x": -198.5,
+                  "y": -134,
+                  "zoom": -0.6380857343718843
                 }
               }
             }
@@ -159,11 +159,11 @@
   },
   "active": "905dfff2532f2e1e",
   "lastOpenFiles": [
+    "Elevate/3.3V_Regulator.md",
     "Elevate/Wireless Controller.md",
+    "Elevate/Block Diagram.canvas",
     "Elevate/USB C Connector.md",
     "Elevate/Micro Controller.md",
-    "Elevate/3.3V_Regulator.md",
-    "Elevate/Block Diagram.canvas",
     "().md",
     "qemu-docs/xilinx_axidma.md",
     "qemu-docs/object.c.md",
