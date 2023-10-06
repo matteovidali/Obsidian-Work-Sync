@@ -11,14 +11,11 @@
             "id": "905dfff2532f2e1e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Elevate/Block Diagram.canvas",
-                "viewState": {
-                  "x": -198.5,
-                  "y": -134,
-                  "zoom": -0.6380857343718843
-                }
+                "file": "AXI DMA in virt.c.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elevate/Block Diagram.canvas",
+                "file": "AXI DMA in virt.c.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elevate/Block Diagram.canvas",
+                "file": "AXI DMA in virt.c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elevate/Block Diagram.canvas"
+                "file": "AXI DMA in virt.c.md"
               }
             }
           },
@@ -159,9 +156,15 @@
   },
   "active": "905dfff2532f2e1e",
   "lastOpenFiles": [
+    "DPA/Kocher-1998.md",
+    "DPA/DPA.md",
+    "DPA/Data Encryption Standard - Wikipedia.md",
+    "Elevate/Block Diagram.canvas",
+    "conflict-files-obsidian-git.md",
+    "DPA",
+    "AXI DMA in virt.c.md",
     "Elevate/3.3V_Regulator.md",
     "Elevate/Wireless Controller.md",
-    "Elevate/Block Diagram.canvas",
     "Elevate/USB C Connector.md",
     "Elevate/Micro Controller.md",
     "().md",
@@ -171,7 +174,6 @@
     "Untitled",
     "qemu-docs/object_initialize_child().md",
     "qemu-docs/xilinx_axidma.md~",
-    "conflict-files-obsidian-git.md",
     "axidma_init function.md",
     "qemu-docs/TypeInfo.md",
     "Work/qemu-docs/object.h.md",
@@ -186,14 +188,9 @@
     "Goals&Principles/workout-schedule.md",
     "Goals&Principles/point1-percent-theory.md",
     "Goals&Principles/diet.md",
-    "daily/2023-07-04.md",
-    "daily/2023-07-03.md",
-    "daily/2023-07-02.md",
     "Goals&Principles",
-    "sync-folder/Personal/point1-percent-theory.md",
     "sync-folder/Personal",
     "sync-folder",
-    "qemu/include/qom",
-    "qemu/include"
+    "qemu/include/qom"
   ]
 }
