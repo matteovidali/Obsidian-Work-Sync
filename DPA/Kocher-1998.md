@@ -9,6 +9,10 @@ Thus we may obtain a [[trace]], measuring the current over time - capturing a cr
 
 ## SPA
 
+### Summary:
+Simple power analysis is a method of recording the power consumption of a device, and through clever observation of the trace, deduce when a 1 or a 0 is being used in a simplistic XOR or RSA cipher.
+
+### More Detail:
 [[SPA]] or [[DPA/SPA|Simple Power Analysis]] refers to the idea that you can interpret the power consumption measurements collected during the cryptographic operation.
 
 When doing this on a standard gate array processor, the trace shows hints at the cryptographic algorithm the chip is utilizing.
@@ -34,7 +38,7 @@ Things that could allow for this type of power analysis are:
 The idea of [[DPA]] is to use a statistical function tailored to the target algorithm ([[Data Encryption Standard - Wikipedia|DES]] in this case), and to utilize the statistical modeling capabilities even when measurement errors get in the way (Seemingly [[Baysian statistics]]).
 
 
-### DES Background
+### DES Background Overview
 
 - 16 Rounds of DES
 - 8 S-box lookup operations per round
@@ -45,7 +49,31 @@ The idea of [[DPA]] is to use a statistical function tailored to the target algo
 - (32 reordered bits) $\oplus$ (*L* register)
 - *L* and *R* are exchanged
 
+### Summary of DPA
+
+The idea behind DPA is to use statistics to infer the key in chunks rather than as a whole. This is done using several statistical meathods.
+1. **Averaging multiple traces to eliminate noise**
+	1. This principle means to take multiple measurements of power consumption for the same exact cryptographic operation, and average them together thereby attenuating the independant noise on each signal
+2. **Using A Selection function to split different averaged traces**
+	1. This refers to, once enough *different* traces have been gathered, and averaged using principle 1 to reduce noise, a selection function is defined to split those traces with regard to weather some feature is present or not
+3. **Computing the difference in averages of the two groups of traces**
+	1. This means that once we have gotten many average traces, and divided them into groups depending on some property, we then find the difference of the averages of those two groups, to see if there is significant statistical difference. If there is, our property is useful, and if not, the property is unuseful and we must try again.
+
+#### What is that property???
+In general, this is the question. The property that we seek for is weather a particular bit changes in accordance with our guess of the secret key. To do this, we will use a selection function as defined below.
+
 ### Selection Function
+
+#### Summary:
+The selection function $D(C,b,K_s)$ is simply a function ($D$) which takes as arguments:
+- $C$ - The Cipher Text
+- $b$ - the particular bit of interest, and
+- $K_s$ - the key guess
+
+and returns exactly the value of bit $b$ with our key guess. 
+We can then use this as a splitting function for our traces.
+
+#### Definition
 
 Selection function: $D(C,b,K_s)$
 
@@ -91,6 +119,7 @@ $$
 \end{equation}
 $$
 
+### Explanation of the above horrifying summation notation
 This looks a little scary, but its not too bad:
 
 The first line is the actual precise definition. It has two terms, which are both very similar.
