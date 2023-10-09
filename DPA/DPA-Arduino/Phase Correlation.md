@@ -8,6 +8,11 @@ From Wikipedia:
 
 Begin with two input signals (with dimension $D_n$) - For most of DPA, this dimension will be 1, but this is equivalent for any dimensional signals.
 
+### An Important note before starting
+
+It is assumed that the input signals have a mean of 0.
+I only discovered this when writing it up in python
+
 
 ### 1. Input Signals
 *Input signals $s_a$ and $s_b$*
@@ -38,3 +43,33 @@ $$\mathbf{r} = \mathcal{F^{-1}}\{R\}$$
 And finally, obtain the location of the signal peak - which spells the resulting shift in the second signal ($s_b$). 
 
 $$(\Delta{x}, ..., \Delta{y}) = \underset{(x,...,y)}{\mathrm{argmax}}\{x\}$$
+### Python Implementation for 1-D phase correlation
+
+```python
+def align_traces(sa: ndarray, sb: ndarray) -> list:
+    '''Align a set of traces:
+        Compute the PHASE CORRELATION between the two signals
+        to align them.
+        Returns shifted version of sb as a list'''
+    # Save the original sb list
+    o_sb = sb.tolist()
+    # Zero Mean
+    sa -= sa.mean()
+    sb -= sb.mean()
+
+    # Compute fourier transform
+    Sa = fft.fft(sa)    
+    Sb_star = fft.fft(sb).conjugate()
+
+    # compute the cross power spectrum
+    R = (Sa * Sb_star) / absolute(Sa * Sb_star)
+
+    # compute inverse fft
+    r = fft.ifft(R)
+
+    # find position of shift
+    shift = r.argmax()
+
+    # return shifted second array
+    return [*o_sb[len(o_sb) - shift:], *o_sb[:len(o_sb) - shift]]
+```
