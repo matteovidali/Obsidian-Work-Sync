@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DPA/Kocher-1998.md",
+                "file": "DPA/DPA-Arduino/Phase Correlation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DPA/Kocher-1998.md",
+                "file": "DPA/DPA-Arduino/Phase Correlation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DPA/Kocher-1998.md",
+                "file": "DPA/DPA-Arduino/Phase Correlation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DPA/Kocher-1998.md"
+                "file": "DPA/DPA-Arduino/Phase Correlation.md"
               }
             }
           },
@@ -156,11 +156,15 @@
   },
   "active": "905dfff2532f2e1e",
   "lastOpenFiles": [
-    "SPA.md",
-    "DPA/Kocher-1998.md",
-    "DPA/DPA.md",
-    "AXI DMA in virt.c.md",
     "DPA/Data Encryption Standard - Wikipedia.md",
+    "DPA/DPA.md",
+    "Sailin Tools.md",
+    "DPA/Window Function.md",
+    "DPA/Kocher-1998.md",
+    "DPA/DPA-Arduino/Phase Correlation.md",
+    "DPA/DPA-Arduino",
+    "AXI DMA in virt.c.md",
+    "SPA.md",
     "Elevate/Block Diagram.canvas",
     "conflict-files-obsidian-git.md",
     "DPA",
@@ -171,8 +175,6 @@
     "().md",
     "qemu-docs/xilinx_axidma.md",
     "qemu-docs/object.c.md",
-    "Sailin Tools.md",
-    "Untitled",
     "qemu-docs/object_initialize_child().md",
     "qemu-docs/xilinx_axidma.md~",
     "axidma_init function.md",
@@ -187,8 +189,6 @@
     "Workout/Push 1.md",
     "Template/daily.template.md",
     "Goals&Principles/workout-schedule.md",
-    "Goals&Principles/point1-percent-theory.md",
-    "Goals&Principles/diet.md",
     "Goals&Principles",
     "sync-folder/Personal",
     "sync-folder",
