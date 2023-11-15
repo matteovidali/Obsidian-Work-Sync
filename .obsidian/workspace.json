@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b0ae10082a6c49ab",
+        "id": "db69a6d1524e3d3a",
         "type": "tabs",
         "children": [
           {
-            "id": "905dfff2532f2e1e",
+            "id": "8be4b367556eab97",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DPA/Kocher-1998.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
+                "file": "DPA/Kocher-1998.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DPA/Kocher-1998.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DPA/Kocher-1998.md"
+              }
             }
           },
           {
@@ -129,11 +137,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,44 +156,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "905dfff2532f2e1e",
+  "active": "a5ddfbca4bb6fb89",
   "lastOpenFiles": [
     "DPA/DPA-Arduino/Phase Correlation.md",
-    "DPA/DPA.md",
-    "DPA/Data Encryption Standard - Wikipedia.md",
-    "DPA/Kocher-1998.md",
-    "DPA/Window Function.md",
-    "Sailin Tools.md",
     "DPA/DPA-Arduino",
-    "AXI DMA in virt.c.md",
-    "SPA.md",
+    "DPA/Data Encryption Standard - Wikipedia.md",
+    "DPA/DPA.md",
+    "DPA/Kocher-1998.md",
+    "DPA/[[Kocher-1998]].md",
+    "DMA.md",
     "Elevate/Block Diagram.canvas",
-    "conflict-files-obsidian-git.md",
+    "Kocher-1998.md",
     "DPA",
-    "Elevate/3.3V_Regulator.md",
+    "AXI DMA in virt.c.md",
+    "conflict-files-obsidian-git.md",
     "Elevate/Wireless Controller.md",
     "Elevate/USB C Connector.md",
     "Elevate/Micro Controller.md",
-    "().md",
+    "Elevate/3.3V_Regulator.md",
+    "Elevate",
     "qemu-docs/xilinx_axidma.md",
-    "qemu-docs/object.c.md",
-    "qemu-docs/object_initialize_child().md",
-    "qemu-docs/xilinx_axidma.md~",
+    "Sailin Tools.md",
+    "sca",
     "axidma_init function.md",
     "qemu-docs/TypeInfo.md",
-    "Work/qemu-docs/object.h.md",
+    "qemu-docs/QOM.md",
+    "qemu-docs/axidma_info.md",
+    "qemu-docs/object.h.md",
+    "qemu-docs/object.c.md",
+    "qemu-docs/object_initialize_child().md",
+    "Work/qemu-docs/object.c.md",
     "Work/qemu-docs",
-    "Work/qemu-docs/QOM.md",
     "Work",
-    "Wireless Control.md",
-    "Elevate",
-    "DMA.md",
+    "Work/DMA.md",
     "Workout/Push 1.md",
     "Template/daily.template.md",
-    "Goals&Principles/workout-schedule.md",
     "Goals&Principles",
     "sync-folder/Personal",
     "sync-folder",
-    "qemu/include/qom"
+    "qemu/include/qom",
+    "Untitled.canvas"
   ]
 }
