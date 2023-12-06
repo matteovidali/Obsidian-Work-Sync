@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa0f671db69d8bec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DPA/Kocher-1998.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DPA/Kocher-1998.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DPA/Kocher-1998.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -154,19 +167,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "905dfff2532f2e1e",
+  "active": "aa0f671db69d8bec",
   "lastOpenFiles": [
+    "DPA/Kocher-1998.md",
+    "conflict-files-obsidian-git.md",
     "DPA/DPA.md",
     "DPA/DPA-Arduino/Phase Correlation.md",
     "DPA/Data Encryption Standard - Wikipedia.md",
-    "DPA/Kocher-1998.md",
     "DPA/Window Function.md",
     "Sailin Tools.md",
     "DPA/DPA-Arduino",
     "AXI DMA in virt.c.md",
     "SPA.md",
     "Elevate/Block Diagram.canvas",
-    "conflict-files-obsidian-git.md",
     "DPA",
     "Elevate/3.3V_Regulator.md",
     "Elevate/Wireless Controller.md",
