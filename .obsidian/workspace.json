@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Sailin Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "DPA/Kocher-1998.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "DPA/Kocher-1998.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "DPA/Kocher-1998.md"
               }
             }
           },
@@ -167,8 +167,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa0f671db69d8bec",
+  "active": "a5ddfbca4bb6fb89",
   "lastOpenFiles": [
+    "DMA.md",
+    "axidma_init function.md",
+    "AXI DMA in virt.c.md",
+    "pytektronix",
     "DPA/Kocher-1998.md",
     "conflict-files-obsidian-git.md",
     "DPA/DPA.md",
@@ -177,7 +181,6 @@
     "DPA/Window Function.md",
     "Sailin Tools.md",
     "DPA/DPA-Arduino",
-    "AXI DMA in virt.c.md",
     "SPA.md",
     "Elevate/Block Diagram.canvas",
     "DPA",
@@ -190,7 +193,6 @@
     "qemu-docs/object.c.md",
     "qemu-docs/object_initialize_child().md",
     "qemu-docs/xilinx_axidma.md~",
-    "axidma_init function.md",
     "qemu-docs/TypeInfo.md",
     "Work/qemu-docs/object.h.md",
     "Work/qemu-docs",
@@ -198,13 +200,10 @@
     "Work",
     "Wireless Control.md",
     "Elevate",
-    "DMA.md",
     "Workout/Push 1.md",
     "Template/daily.template.md",
-    "Goals&Principles/workout-schedule.md",
     "Goals&Principles",
     "sync-folder/Personal",
-    "sync-folder",
-    "qemu/include/qom"
+    "sync-folder"
   ]
 }
