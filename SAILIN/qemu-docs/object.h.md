@@ -1,4 +1,4 @@
-The header file for qemu [[qom]] object.
+The header file for qemu [[QOM]] object.
 
 ## object_initialize_child
 

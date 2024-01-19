@@ -21,4 +21,4 @@ But these seem to be more internal.
 
 ## [[TypeInfo]] [[axidma_info]]
 
-The [axidma_info](qemu-docs/axidma_info) [[TypeInfo]] struct seems to be the main info struct for the [[QOM]] object.
+The [axidma_info](axidma_info.md) [[TypeInfo]] struct seems to be the main info struct for the [[QOM]] object.

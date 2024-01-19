@@ -1,4 +1,4 @@
-The object definition file for QEMU/[[qom]]
+The object definition file for QEMU/[[QOM]]
 
 ## object_initialize_child_internal
 

@@ -1,6 +1,6 @@
 # Location & Definition
-Comes from: **qemu/include/[[qom]]/[[object.h]]**
-and is defined in: **qemu/[[qom]]/[[object.c]]** 
+Comes from: **qemu/include/[[QOM]]/[[object.h]]**
+and is defined in: **qemu/[[QOM]]/[[object.c]]** 
 
 ## Prototype
 ```c
@@ -16,10 +16,10 @@ object_initialize_child_internal((parent), (propname), \
 
 ## Definition
 
-The function **`object_initialize_child`** is actually defined in the [header](qemu-docs/object.h), and exists to call the function **`object_initialize_child_internal`**. 
+The function **`object_initialize_child`** is actually defined in the [header](object.h.md), and exists to call the function **`object_initialize_child_internal`**. 
 Why this is done is currently a mystery to me.
 
-The function that is actually called **`object_initialize_child_internal`** is defined in the [main file](qemu-docs/object.c)
+The function that is actually called **`object_initialize_child_internal`** is defined in the [main file](object.c.md)
 
 
 
